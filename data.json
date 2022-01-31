@@ -3,32 +3,38 @@
         {
           "name" : "Дощовик прозорий Warning",
           "price": "800",
-          "image": "assets/images/trend-pr-1.jpg"
+          "image": "assets/images/trend-pr-1.jpg",
+          "sizes": ["XS", "S", "M", "L", "XL"]
         },
         {
             "name" : "Дощовик прозорий Warning",
             "price": "800",
-            "image": "assets/images/trend-pr-2.jpg"
+            "image": "assets/images/trend-pr-2.jpg",
+            "sizes": ["XS", "S", "M", "L", "XL"]
         },
         {
             "name" : "Дощовик прозорий Warning",
             "price": "800",
-            "image": "assets/images/trend-pr-3.jpg"
+            "image": "assets/images/trend-pr-3.jpg",
+            "sizes": ["XS", "S", "M", "L", "XL"]
         },
         {
             "name" : "Дощовик прозорий Warning",
             "price": "800",
-            "image": "assets/images/trend-pr-4.jpg"
+            "image": "assets/images/trend-pr-4.jpg",
+            "sizes": ["XS", "S", "M", "L", "XL"]
         },
         {
             "name" : "Дощовик прозорий Warning",
             "price": "800",
-            "image": "assets/images/trend-pr-5.jpg"
+            "image": "assets/images/trend-pr-5.jpg",
+            "sizes": ["XS", "S", "M", "L", "XL"]
         },
         {
             "name" : "Дощовик прозорий Warning",
             "price": "800",
-            "image": "assets/images/trend-pr-6.jpg"
+            "image": "assets/images/trend-pr-6.jpg",
+            "sizes": ["XS", "S", "M", "L", "XL"]
         }
     ]
 }
